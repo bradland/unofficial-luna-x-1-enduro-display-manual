@@ -5,12 +5,12 @@ The X-1 comes equipped with Bafang's M600 drive system. This includes the G521 m
 ## The Controller
 You'll use the buttons on the controller to navigate the display, change settings, and adjust the configuration.
 
-![Bafang C240 Controller](./images/X-1-Control-Switch.png)
+![Bafang C240 Controller](images/X-1-Control-Switch.png)
 
 ## Display Basics
 The display shows information about your e-bike's settings and riding statistics.
 
-![Bafang C240 Display](./images/Display-Basics.png)
+![Bafang C240 Display](images/Display-Basics.png)
 
 ### Battery Remaining
 Displays the remaining capacity of the battery as a percentage value.
@@ -33,14 +33,14 @@ Press **Up** to increase the assist level and **Down** to decrease. Assist level
 #### Boost Mode
 Boost mode is a feature for bikes configured with a low speed limit and no throttle. This feature allows the rider to get full motor power temporarily, even while at the limit. Since the X-1 limiter is configured to 56 MPH, this feature is not used.
 
-![Boost Mode Icon](./images/Main - Assist - Boost Mode Icon.jpg)
+![Boost Mode Icon](images/Main - Assist - Boost Mode Icon.jpg)
 
 #### Walking Mode
 Repeatedly press **Down** until the walking mode icon is displayed. Then press and hold **Down** for 2 seconds and the motor will move the bike along at a walking pace. To stop, release the **Down** button.
 
 *Note: You **do not** need to use the throttle while using Walking Mode. Doing so may cause the bike to leap out of your grip.*
 
-![Walking Mode Icon](./images/Main - Assist - Walking Mode Icon.jpg)
+![Walking Mode Icon](images/Main - Assist - Walking Mode Icon.jpg)
 
 ### Info Display
 Cycle the info line by briefly pressing the **Boost / ON-OFF** button. Available information includes:
