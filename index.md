@@ -31,7 +31,7 @@ Press **Up** to increase the assist level and **Down** to decrease. Assist level
 * Walking Mode
 
 #### Boost Mode
-Boost mode is a feature for bikes configured with a low speed limit and no throttle. This feature allows the rider to get full motor power temporarily, even while at the limit. Since the X-1 limiter is configured to 56 MPH, this feature is not used.
+Boost mode allows you to exceed the motors 25 MPH PAS limiter. This feature allows the rider to get full motor power temporarily, even while at the limit. Since all versions of the X-1 have a throttle, this feature is made moot by the ability to simply press the throttle lever.
 
 ![Boost Mode Icon](images/Main - Assist - Boost Mode Icon.jpg)
 
