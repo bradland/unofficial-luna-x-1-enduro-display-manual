@@ -31,7 +31,9 @@ Press **Up** to increase the assist level and **Down** to decrease. Assist level
 * Walking Mode
 
 #### Boost Mode
-Boost mode allows you to exceed the motors 25 MPH PAS limiter. This feature allows the rider to get full motor power temporarily, even while at the limit. Since all versions of the X-1 have a throttle, this feature is made moot by the ability to simply press the throttle lever.
+_Note: Since all versions of the X-1 are equipped with a throttle, this feature is made moot by the ability to simply press the throttle lever._
+
+Boost mode allows you to exceed the drive's 25 MPH (40 km/h) PAS limiter. This feature allows the rider to use full motor power temporarily, bypassing the limit. To initiate boost mode, start by pedaling to 25 MPH. Press **Up** repeatedly until the Boost Mode Icon (pictured below) appears. Press and hold the **Boost / ON-OFF** button. You should feel the motor assist you beyond 25 MPH. To terminate boost mode, release the **Boost / ON-OFF** button.
 
 ![Boost Mode Icon](images/Main - Assist - Boost Mode Icon.jpg)
 
