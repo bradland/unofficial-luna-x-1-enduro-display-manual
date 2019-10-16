@@ -19,7 +19,7 @@ Displays the remaining capacity of the battery as a percentage value.
 Press and hold the **Up** button to toggle the display backlight. The display also features a light sensor that will automatically trigger the display backlight and headlight (if equipped) when in a dark environment. The headlight icon will appear when the headlight/backlight is active.
 
 ### Assist Setting
-Press **Up** to increase the assist level and **Down** to decrease. Assist levels start at 0 (no assistance) and scale up to 5 (maximum assistance).
+Press **Up** to increase the assist level and **Down** to decrease. Assist levels start at 0 (no assistance) and scale up to 5 (maximum assistance). Note that the Assist Setting affects the maximum power available at 100% throttle. For maximum power at 100% throttle, select PAS 5.
 
 * Boost Mode
 * 5 (maximum assistance)
